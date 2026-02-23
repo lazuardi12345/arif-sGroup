@@ -35,10 +35,10 @@ export default function Footer() {
           <div>
             <h4 className="font-bold mb-4">Kontak</h4>
             <ul className="space-y-2 text-white/80 text-sm">
-              <li>Jl. Industri No. 123</li>
-              <li>Jakarta, Indonesia</li>
-              <li>+62 81 2345 67890</li>
-              <li className="pt-2"><a href="https://wa.me/6281234567890" className="hover:text-white transition-colors">Chat WhatsApp</a></li>
+              <li>Jl. Raya Tajur, Tarikolot, Kec. Citeureup,</li>
+              <li>Kabupaten Bogor, Jawa Barat 16810</li>
+              <li>+6285720774322</li>
+              <li className="pt-2"><a href="https://wa.me/6285720774322" className="hover:text-white transition-colors">Chat WhatsApp</a></li>
             </ul>
           </div>
         </div>

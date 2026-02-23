@@ -12,6 +12,7 @@ export default function Navbar() {
     { label: 'MBG Program', href: '#mbg' },
     { label: 'Services', href: '#services' },
     { label: 'Workflow', href: '#workflow' },
+    { label: 'Produk', href: '/produk' },
     { label: 'Contact', href: '#contact' },
   ]
 

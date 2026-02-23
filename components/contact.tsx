@@ -39,8 +39,8 @@ export default function Contact() {
             <MapPin className="w-8 h-8 text-primary mb-4" />
             <h3 className="text-lg font-bold text-primary mb-2">Lokasi</h3>
             <p className="text-foreground/70">
-              Jl. Industri No. 123<br />
-              Jakarta, Indonesia 12345
+              Jl. Raya Tajur, Tarikolot, Kec. Citeureup,<br />
+              Kabupaten Bogor, Jawa Barat 16810
             </p>
           </div>
 
